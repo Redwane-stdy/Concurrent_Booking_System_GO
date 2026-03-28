@@ -12,6 +12,20 @@
 
 ---
 
+## Démo
+
+<video src="demo.mp4" width="100%" controls></video>
+
+---
+
+## Aperçu
+
+![Aperçu de l'interface](image1.png)
+
+![Architecture & Redis](image2.png)
+
+---
+
 ## Lancer le projet
 
 **1. Démarrer Redis**
