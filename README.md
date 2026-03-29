@@ -14,7 +14,7 @@
 
 ## Démo
 
-<video src="demo.mp4" width="100%" controls></video>
+![Démo](demo.gif)
 
 ---
 
